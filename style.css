@@ -1,0 +1,346 @@
+body {
+  font-family: apple-system, BlinkMacSystemFont, segoe ui, Roboto,
+    helvetica neue, Arial, noto sans, sans-serif, apple color emoji,
+    segoe ui emoji, segoe ui symbol, noto color emoji;
+    
+
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #fff;
+}
+
+.karma {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+
+.karma img {
+  margin-right: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  display: inline-block;
+  margin-right: 20px;
+  position: relative;
+}
+
+.dropdown {
+  display: none;
+  position: absolute;
+  top: 100%; /* Position dropdown below parent */
+  left: 0;
+}
+
+ul li:hover .dropdown {
+  display: block;
+}
+
+.dropdown ul {
+  margin: 0;
+  padding: 0;
+}
+
+.dropdown ul li {
+  display: block;
+}
+.btn {
+  font-size: 12px;
+
+  padding: 16px 18px;
+  border: 1px hidden #f9c03d;
+  background: #f9c03d;
+  color: #fff;
+  border-radius: 5px;
+}
+.div1 {
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+#divv {
+  padding-top: 30px;
+  height: 400px;
+  width: fit-content;
+  background-image: url("bkg1.png");
+  background-size: cover;
+  background-position: center;
+}
+#firsth1 {
+  font-size: 50px;
+  height: 200px;
+  width: 500px;
+}
+.div2 {
+  padding-top: 80px;
+  padding-bottom: 50px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+#row1 {
+  display: flex;
+  align-items: center; /* Adjusted alignment */
+}
+
+#row1 img {
+  margin-right: 10px; /* Added margin for spacing */
+}
+
+#h5 {
+  font-size: 18px;
+}
+#p1 {
+  font-size: 17px;
+  line-height: 1.7em;
+}
+.div11 {
+ text-align: center;
+  padding-bottom: 50px;
+}
+#h2 {
+  font-size: 28px;
+}
+.DIV22 {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 100px;
+}
+.div22 {
+  display: flex;
+  position: relative;
+  padding-bottom: 50px;
+}
+
+#indeximg1 {
+  padding-top: 120px;
+  top: -40px;
+  left: 10px;
+  position: absolute;
+  width: 300px;
+  height: 380px;
+  z-index: 1;
+}
+#indeximg2 {
+  padding-top: 70px;
+  top: 100px;
+  left: 180px;
+  position: absolute;
+  width: 284px;
+  height: 350px;
+  z-index: 2;
+}
+#indeximg3 {
+  padding-top: 80px;
+  top: 180px;
+  left: 330px;
+  position: absolute;
+  width: 284px;
+  height: 300px;
+  z-index: 3;
+}
+.div33 {
+  padding-right: 80px;
+}
+h5 {
+  font-size: 18px;
+}
+#p {
+  font-size: 17px;
+}
+.bgdiv {
+  padding-top: 70px;
+  padding-right: 10px;
+  height: 180px;
+  width: fit-content;
+  background-image: url("bkg1.png");
+  background-size: cover;
+  background-position: center;
+}
+.div3 {
+  width: fit-content;
+  background-color: #f4f4f4;
+  padding-top: 100px;
+  padding-bottom: 70px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+#H2 {
+  font-size: 35px;
+  padding-left: 40px;
+}
+.ddivv {
+  display: flex;
+  justify-content: space-between;
+}
+#hh2 {
+  font-size: 50px;
+}
+#intdivs {
+  padding: 20px;
+}
+.btm1 {
+  padding-top: 150px;
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 100px;
+}
+.btm11 {
+  padding-top: 70px;
+  padding-right: 100px;
+  padding-left: 50px;
+}
+#btmimg1 {
+  padding-left: 100px;
+  width: fit-content;
+  background-image: url("bkg1.png");
+  background-size: cover;
+  background-position: center;
+  height: fit-content;
+}
+#btmh {
+  font-size: 30px;
+}
+#p2 {
+  font-size: 20px;
+  line-height: 1.7rem;
+}
+.M1 {
+  padding-top: 70px;
+  background-color: #59fcfc;
+
+
+  padding-bottom: 100px;
+}
+.btm2 {
+  text-align: center;
+  padding-bottom: 50px;
+}
+.m1 {
+  display: flex;
+  justify-content: space-around;
+  margin-right: auto;
+  margin-left: auto;
+  position: relative;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+#m1 {
+  background-color: #fff;
+  padding-bottom: 50px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.btn {
+  font-size: 12px;
+  padding: 16px 18px;
+  border: 1px hidden #f9c03d;
+  background: #f9c03d;
+  color: #fff;
+  border-radius: 5px;
+}
+
+#intm1 {
+  text-align: center;
+}
+#button {
+  padding-top: 50px;
+  align-items: center;
+  text-align: center;
+}
+.sec4 {
+  padding-top: 100px;
+  padding-bottom: 150px;
+}
+#divh {
+  text-align: center;
+}
+.middiv {
+  display: flex;
+  justify-content: space-between;
+}
+#middi {
+  padding-left: 90px;
+  padding-right: 90px;
+}
+.imgg {
+  text-align: end;
+  padding-top: 50px;
+}
+#h1btm {
+  font-size: 44px;
+  text-align: center;
+}
+.btmbtn {
+  text-align: center;
+}
+
+.btm22 {
+  padding-top: ;
+  padding-bottom: 50px;
+}
+.container1 {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.sec4{
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.footer {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 20px;
+}
+#footers {
+  padding-left: 70px;
+  padding-right: 70px;
+}
+.lastdiv {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 40px;
+
+  padding-bottom: 30px;
+}
+
+#icon {
+  display: inline-block;
+  border-radius: 50%;
+  border: 2px solid #ccc;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  transition: border-color 0.3s;
+}
+#icon:hover {
+  border-color: #007bff;
+}
+.lastsec {
+  
+  padding-top: 80px;
+  background-color: #56f1f1;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
